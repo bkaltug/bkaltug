@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bkaltug
-- 👀 I’m interested in frontend programming but im currently working on my backend skills.
-- 🌱 I’m currently learning C and Python
-- 💞️ I’m looking to collaborate on intermediate level projects.
-- 📫 How to reach me @bkaltug on instagram, berkayaltugustagul@hotmail.com.
+- 👋 Hi, I’m Berkay Altuğ Ustagül. I'm 20 years old and I'm sophomore student. I'm studying Electronics & Communications Engineering at Izmir Institute of Technology.
+- 👀 I’m experienced in android developement with Java & backend developement with C.
+- 🌱 I’m currently learning Python. 
+- 💞️ I’m looking to collaborate on intermediate level projects on C and Java.
+- 📫 How to reach me => E-mail: berkay.ustagul@gmail.com , LinkedIn: https://www.linkedin.com/in/berkay-altuğ-ustagül-012106177
 
 <!---
 bkaltug/bkaltug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

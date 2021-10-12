@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Berkay Altuğ Ustagül. I'm 20 years old and I'm a junior student. I'm studying Electronics & Communications Engineering at Izmir Institute of Technology.
+- 👋 Hi, I’m Berkay Altuğ Ustagül. I'm 20 years old and I'm an Electronics & Communications Engineering junior at Izmir Institute of Technology.
 - 👀 I’m experienced in android developement with Java & backend developement with C.
 - 🌱 I’m currently improving myself in Python & Flutter. 
 - 💞️ I’m looking to collaborate on intermediate level projects on C and Java.

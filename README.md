@@ -1,4 +1,4 @@
-- 👋 Hey, I’m Berkay. I'm 21 & I'm currently an Electronics & Communications Engineering junior at Izmir Institute of Technology.
+- 👋 Hey, I’m Berkay. I'm 21 & I'm an Electronics & Communications Engineering junior at Izmir Institute of Technology.
 - 👀 I’m experienced in mobile app development with Flutter & I'm experienced in working with C.
 - 🌱 I have an intermediate knowledge in Python & Java. 
 - 💞️ I’m looking to collaborate on projects on Flutter & C.
